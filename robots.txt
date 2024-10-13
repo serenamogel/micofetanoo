@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://micofetanoo.pages.dev/sitemap.xml
